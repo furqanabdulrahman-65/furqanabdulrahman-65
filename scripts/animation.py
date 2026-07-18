@@ -34,6 +34,7 @@ y="{y}"
 clip-path="url(#clip{i})"
 font-family="Consolas, monospace"
 font-size="11"
+xml:space="preserve"
 fill="#c9d1d9">
 {safe_row}
 </text>
