@@ -10,6 +10,10 @@
 
 <br>
 
+<h3><code>furqan@github ~ $ contributions</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br>
 
 <h3>
 <code>

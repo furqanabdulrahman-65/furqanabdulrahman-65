@@ -1,7 +1,7 @@
 from PIL import Image
 
 RAMP = " .`:-=+*cs#%@"
-WIDTH = 100
+WIDTH = 80
 
 
 class AsciiGenerator:
@@ -12,7 +12,7 @@ class AsciiGenerator:
     def resize(self):
         w, h = self.image.size
         ratio = h / w
-        new_height = int(WIDTH * ratio * 0.55)
+        new_height = int(WIDTH * ratio * 0.46)
         self.image = self.image.resize((WIDTH, new_height))
 
     def pixels_to_ascii(self):

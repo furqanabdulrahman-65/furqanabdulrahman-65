@@ -42,11 +42,21 @@ rgb = np.array(background.convert("RGB"))
 # Convert to grayscale
 gray = cv2.cvtColor(rgb, cv2.COLOR_RGB2GRAY)
 
-# CLAHE (Adaptive Contrast)
-clahe = cv2.createCLAHE(clipLimit=2.5, tileGridSize=(8, 8))
-gray = clahe.apply(gray)
+# Standardize contrast: stretch to [0, 255]
+min_val = np.min(gray)
+max_val = np.max(gray)
+if max_val > min_val:
+    gray = ((gray - min_val) / (max_val - min_val) * 255).astype(np.uint8)
 
-# Light smoothing
+# Gamma correction to adjust middle gray contrast
+# gamma < 1.0 makes shadows darker, gamma > 1.0 makes highlights brighter
+gamma = 0.95
+lookUpTable = np.empty((1, 256), np.uint8)
+for i in range(256):
+    lookUpTable[0, i] = np.clip(pow(i / 255.0, gamma) * 255.0, 0, 255)
+gray = cv2.LUT(gray, lookUpTable)
+
+# Light smoothing to reduce ASCII noise
 gray = cv2.GaussianBlur(gray, (3, 3), 0)
 
 # Save prepped image

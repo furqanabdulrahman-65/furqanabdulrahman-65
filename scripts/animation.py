@@ -4,9 +4,16 @@ TOTAL_DURATION = 4.0
 CURSOR_COLOR = "#58a6ff"
 
 
-def build_animation(rows, char_width, line_height):
+from xml.sax.saxutils import escape
+
+TOTAL_DURATION = 4.0
+CURSOR_COLOR = "#58a6ff"
+
+
+def build_animation(rows, char_width, line_height, y_start=48):
     total_rows = len(rows)
     row_dur = TOTAL_DURATION / total_rows
+    font_size = round(char_width * 1.83, 2)
 
     clip_defs = []
     animated_rows = []
@@ -14,12 +21,12 @@ def build_animation(rows, char_width, line_height):
 
     for i, row in enumerate(rows):
         begin_time = round(i * row_dur, 4)
-        y = 20 + i * line_height
+        y = y_start + i * line_height
         width = len(row) * char_width
 
         clip_defs.append(f"""
 <clipPath id="clip{i}">
-    <rect x="15" y="{y - line_height + 2}" width="0" height="{line_height}">
+    <rect x="15" y="{y - line_height + 1.5}" width="0" height="{line_height}">
         <animate attributeName="width" from="0" to="{width}" begin="{begin_time}s" dur="{row_dur:.4f}s" fill="freeze" />
     </rect>
 </clipPath>
@@ -33,7 +40,7 @@ x="15"
 y="{y}"
 clip-path="url(#clip{i})"
 font-family="Consolas, monospace"
-font-size="11"
+font-size="{font_size}"
 xml:space="preserve"
 fill="#c9d1d9">
 {safe_row}
@@ -43,7 +50,7 @@ fill="#c9d1d9">
         cursor.append(f"""
 <rect
 x="15"
-y="{y - line_height + 2}"
+y="{y - line_height + 1.5}"
 width="6"
 height="{line_height}"
 fill="{CURSOR_COLOR}"
@@ -54,12 +61,12 @@ opacity="0">
 """)
 
     if total_rows > 0:
-        last_y = 20 + (total_rows - 1) * line_height
+        last_y = y_start + (total_rows - 1) * line_height
         last_width = len(rows[-1]) * char_width
         cursor.append(f"""
 <rect
 x="{15 + last_width}"
-y="{last_y - line_height + 2}"
+y="{last_y - line_height + 1.5}"
 width="6"
 height="{line_height}"
 fill="{CURSOR_COLOR}"
