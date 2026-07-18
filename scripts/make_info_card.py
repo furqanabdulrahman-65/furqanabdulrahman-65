@@ -1,6 +1,9 @@
-WIDTH = 500
-HEIGHT = 280
+import os
 
+STATIC = os.environ.get("STATIC") == "1"
+
+WIDTH = 490
+HEIGHT = 280
 
 INFO = [
     ("User", "Mohammed Furqan Abdul Rahman"),
@@ -14,88 +17,67 @@ INFO = [
 
 
 def create_card():
+    # Helper to wrap elements in animation if not static
+    def anim(delay):
+        if STATIC:
+            return ""
+        return f"""
+        <animate attributeName="opacity" from="0" to="1" begin="{delay}s" dur="0.4s" fill="freeze" />
+        <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="{delay}s" dur="0.4s" fill="freeze" />
+        """
 
-    svg = f"""
-<svg xmlns="http://www.w3.org/2000/svg"
-width="{WIDTH}"
-height="{HEIGHT}"
-viewBox="0 0 {WIDTH} {HEIGHT}">
+    svg = f"""<svg xmlns="http://www.w3.org/2000/svg"
+     width="{WIDTH}"
+     height="{HEIGHT}"
+     viewBox="0 0 {WIDTH} {HEIGHT}">
+  <style>
+    .key {{ font-weight: bold; fill: #58a6ff; }}
+    .val {{ fill: #c9d1d9; }}
+    .title {{ font-weight: bold; fill: #58a6ff; }}
+  </style>
 
-<rect
-width="100%"
-height="100%"
-rx="15"
-fill="#0d1117"
-stroke="#30363d"/>
+  <rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
 
+  <!-- Terminal Window Title Bar -->
+  <g opacity="{1 if STATIC else 0}" transform="translate(0, 0)">
+    {anim(0.05)}
+    <!-- Mac / Unix window controls -->
+    <circle cx="20" cy="20" r="5" fill="#ff5f56" />
+    <circle cx="35" cy="20" r="5" fill="#ffbd2e" />
+    <circle cx="50" cy="20" r="5" fill="#27c93f" />
+    <text x="{WIDTH // 2}" y="20" font-family="Consolas, monospace" font-size="11" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">furqan@terminal:~</text>
+    <line x1="0" y1="36" x2="{WIDTH}" y2="36" stroke="#21262d" stroke-width="1" />
+  </g>
 
-<text
-x="25"
-y="45"
-font-family="monospace"
-font-size="22"
-fill="#58a6ff">
-furqan@github
-</text>
-
-
-<text
-x="25"
-y="70"
-font-family="monospace"
-font-size="12"
-fill="#8b949e">
-------------------------------
-</text>
-
+  <!-- Title / Logo details -->
+  <g opacity="{1 if STATIC else 0}" transform="translate(0, 0)">
+    {anim(0.15)}
+    <text x="25" y="62" font-family="Consolas, monospace" font-size="16" class="title">furqan@github</text>
+    <text x="25" y="80" font-family="Consolas, monospace" font-size="12" fill="#8b949e">------------------------------</text>
+  </g>
 """
 
-    y = 105
-
-    for key,value in INFO:
-
+    y = 110
+    for i, (key, value) in enumerate(INFO):
+        delay = 0.25 + i * 0.08
         svg += f"""
-
-<text
-x="25"
-y="{y}"
-font-family="monospace"
-font-size="14"
-fill="#58a6ff">
-
-{key}
-
-</text>
-
-
-<text
-x="140"
-y="{y}"
-font-family="monospace"
-font-size="14"
-fill="#c9d1d9">
-
-{value}
-
-</text>
-
+  <g opacity="{1 if STATIC else 0}" transform="translate(0, 0)">
+    {anim(delay)}
+    <text x="25" y="{y}" font-family="Consolas, monospace" font-size="13" class="key">{key}:</text>
+    <text x="120" y="{y}" font-family="Consolas, monospace" font-size="13" class="val">{value}</text>
+  </g>
 """
-
-        y += 25
-
+        y += 22
 
     svg += """
-
 </svg>
 """
-
     return svg
 
 
-
-with open("../info-card.svg","w",encoding="utf-8") as f:
-
-    f.write(create_card())
-
-
-print("info-card.svg created")
+if __name__ == "__main__":
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    output_path = os.path.join(os.path.dirname(current_dir), "info-card.svg")
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(create_card())
+    print(f"info-card.svg created at {output_path}!")
