@@ -1,0 +1,2448 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+width="800"
+height="862"
+viewBox="0 0 800 862">
+
+<rect width="100%" height="100%" fill="#0d1117"/>
+
+<defs>
+
+
+<clipPath id="clip0">
+    <rect x="15"
+          y="9"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip1">
+    <rect x="15"
+          y="22"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip2">
+    <rect x="15"
+          y="35"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip3">
+    <rect x="15"
+          y="48"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip4">
+    <rect x="15"
+          y="61"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip5">
+    <rect x="15"
+          y="74"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip6">
+    <rect x="15"
+          y="87"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip7">
+    <rect x="15"
+          y="100"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip8">
+    <rect x="15"
+          y="113"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip9">
+    <rect x="15"
+          y="126"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip10">
+    <rect x="15"
+          y="139"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip11">
+    <rect x="15"
+          y="152"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip12">
+    <rect x="15"
+          y="165"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip13">
+    <rect x="15"
+          y="178"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip14">
+    <rect x="15"
+          y="191"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip15">
+    <rect x="15"
+          y="204"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip16">
+    <rect x="15"
+          y="217"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip17">
+    <rect x="15"
+          y="230"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip18">
+    <rect x="15"
+          y="243"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip19">
+    <rect x="15"
+          y="256"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip20">
+    <rect x="15"
+          y="269"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip21">
+    <rect x="15"
+          y="282"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip22">
+    <rect x="15"
+          y="295"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip23">
+    <rect x="15"
+          y="308"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip24">
+    <rect x="15"
+          y="321"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip25">
+    <rect x="15"
+          y="334"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip26">
+    <rect x="15"
+          y="347"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip27">
+    <rect x="15"
+          y="360"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip28">
+    <rect x="15"
+          y="373"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip29">
+    <rect x="15"
+          y="386"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip30">
+    <rect x="15"
+          y="399"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip31">
+    <rect x="15"
+          y="412"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip32">
+    <rect x="15"
+          y="425"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip33">
+    <rect x="15"
+          y="438"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip34">
+    <rect x="15"
+          y="451"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip35">
+    <rect x="15"
+          y="464"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip36">
+    <rect x="15"
+          y="477"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip37">
+    <rect x="15"
+          y="490"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip38">
+    <rect x="15"
+          y="503"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip39">
+    <rect x="15"
+          y="516"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip40">
+    <rect x="15"
+          y="529"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip41">
+    <rect x="15"
+          y="542"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip42">
+    <rect x="15"
+          y="555"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip43">
+    <rect x="15"
+          y="568"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip44">
+    <rect x="15"
+          y="581"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip45">
+    <rect x="15"
+          y="594"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip46">
+    <rect x="15"
+          y="607"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip47">
+    <rect x="15"
+          y="620"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip48">
+    <rect x="15"
+          y="633"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip49">
+    <rect x="15"
+          y="646"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip50">
+    <rect x="15"
+          y="659"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip51">
+    <rect x="15"
+          y="672"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip52">
+    <rect x="15"
+          y="685"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip53">
+    <rect x="15"
+          y="698"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip54">
+    <rect x="15"
+          y="711"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip55">
+    <rect x="15"
+          y="724"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip56">
+    <rect x="15"
+          y="737"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip57">
+    <rect x="15"
+          y="750"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip58">
+    <rect x="15"
+          y="763"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip59">
+    <rect x="15"
+          y="776"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip60">
+    <rect x="15"
+          y="789"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip61">
+    <rect x="15"
+          y="802"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip62">
+    <rect x="15"
+          y="815"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+<clipPath id="clip63">
+    <rect x="15"
+          y="828"
+          width="770"
+          height="13">
+    </rect>
+</clipPath>
+
+
+</defs>
+
+
+<text
+x="15"
+y="20"
+clip-path="url(#clip0)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="33"
+clip-path="url(#clip1)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="46"
+clip-path="url(#clip2)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="59"
+clip-path="url(#clip3)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="72"
+clip-path="url(#clip4)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="85"
+clip-path="url(#clip5)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="98"
+clip-path="url(#clip6)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="111"
+clip-path="url(#clip7)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="124"
+clip-path="url(#clip8)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$B8&amp;&amp;&amp;%@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="137"
+clip-path="url(#clip9)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$#OXurvcucJmaB$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="150"
+clip-path="url(#clip10)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Wwc/1\\1\rnXUUXJb@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="163"
+clip-path="url(#clip11)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&amp;qzt\{]}1]]}{{1/rnnxCaWB$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="176"
+clip-path="url(#clip12)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$*J|[[[]]{1}}}}))[]]_+?1(fXqB$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="189"
+clip-path="url(#clip13)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$BQ{-&gt;&gt;__~~+~?1[&lt;l:^^^`"^I_[[1n*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="202"
+clip-path="url(#clip14)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@0?!l&lt;&lt;I'."l&lt;i;,^^:~{)|ft~_][_&gt;1W$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="215"
+clip-path="url(#clip15)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&amp;\~Iil;.'!?&lt;[ftruvXL0wkaoJ]~!li;w$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="228"
+clip-path="url(#clip16)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$o]l;!l,'+ru[vXUQwpppdaooobj&lt;;,i}#$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="241"
+clip-path="url(#clip17)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$M};;!I":{Y0vXX0d*#***MW&amp;MoL&lt;`"_p$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="254"
+clip-path="url(#clip18)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@0&lt;,":li|LmmZmpkbbdwZJzzYQmj:~UB$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="267"
+clip-path="url(#clip19)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Bx;;l!1J0LJuf(}1\xr1~ll~&lt;-]&lt;rB$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="280"
+clip-path="url(#clip20)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W(l&gt;]uJz)+I^^",I&lt;(}:^`II~[?n%$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="293"
+clip-path="url(#clip21)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$C/(1rLY1iII`^:;_bo)ll&lt;)xzrY8$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="306"
+clip-path="url(#clip22)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$dvvxtQwQ1]-&lt;&gt;&lt;&gt;c#%WYtrCOmZZ8$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="319"
+clip-path="url(#clip23)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@qxvzXdp0cr/|(zdZpOULuLpkqOB$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="332"
+clip-path="url(#clip24)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$BqLctmpdkpQzCpx[(}}Q0YUZZ*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="345"
+clip-path="url(#clip25)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@#O\cC0wqZn|x/1((|/]}zvQB$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="358"
+clip-path="url(#clip26)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&amp;LxnuzOtvOm0YuzOZzf)d$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="371"
+clip-path="url(#clip27)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Wz([|LbW&amp;*Y1[(Chm{\B$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="384"
+clip-path="url(#clip28)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@vvf&lt;_\JhMdOCJYCz}ilz8$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="397"
+clip-path="url(#clip29)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$X.{U\+ll+[~+_+l:!|C; ]a$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="410"
+clip-path="url(#clip30)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$8L: -Q0Jf}!;:;l~1fJkMv,.[wk*W8B$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="423"
+clip-path="url(#clip31)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@%#dLXv+.:[c0mmOLJcnvUQQmk#d|l&gt;cXvnXC0qoW%B@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="436"
+clip-path="url(#clip32)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$@8#pLvf{[((j],_jxcUQQQ00LCQOmmddmx;+vwCQJUYXXYJQOwa&amp;@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="449"
+clip-path="url(#clip33)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$$$8hOXxttfrf\/|1[&lt;&gt;&gt;/JLXULJYJJL0OOmabvi:~tO0JUQLCCJCQ0QOmpk8$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="462"
+clip-path="url(#clip34)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$$$WOXjxxf\(\fxx\?;' ;!l[n0mqpmmwpboMaL(&lt;_{{{;!-\nzJLJUYnrvcUQCd$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="475"
+clip-path="url(#clip35)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$$@qnrv\trf/|\\|({+!;:,`,:;~jdW##MW&amp;hCfr}+}?i;_)/xJmZQQYf(\\-|nt]Q@$$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="488"
+clip-path="url(#clip36)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$@J\Xuu?|nrjt/tj/)}?-_~!I;;:;&lt;tmW@BC]~-{_"`";[uYQwOOZQXff|t{!]\+&lt;?L@$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="501"
+clip-path="url(#clip37)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$$O][/xx&gt;1urrfttfjf/|1{[]]--_~i:;_v\,^"^^,l+]|cL0Z0CL0c\jf/(]I_{!~~]O$$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="514"
+clip-path="url(#clip38)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$$p{++_x\![njjrxnxxjfffft\|((|/\)[~:":I!~[(fxxcYYUJCJUYjfjr/]?!_-l~&lt;~}d$$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="527"
+clip-path="url(#clip39)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$$*(_~~+r);-xjrrxnnnxxxrrrxjftt/|1}??]-{\rvzYCJYYYYYYXzvr//f)_~l~~I&lt;&gt;~_1a$$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="540"
+clip-path="url(#clip40)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$@v__+~~|{"]rnzcvuuvvvunxrffjfjt)}{[t){[1\xczzvxfxvccnftr|({[&lt;i;&gt;;I&lt;&gt;&lt;_&lt;\8$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="553"
+clip-path="url(#clip41)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$o]__+&gt;&gt;_?l{\xnrjxnuxftt/frnvvcXYv\[[fXvrrnxt\()|\tft\1}|1[-_~;;!:l&lt;i&lt;_&lt;&gt;O$$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="566"
+clip-path="url(#clip42)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$$C&lt;_+-&gt;~!!l??!l!!i&lt;+&lt;&lt;&lt;~-[{(\/fxunt?[\vYYv\[__?]{11{}[]-_]+~~&lt;"::"&gt;ii+~i!f8$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="579"
+clip-path="url(#clip43)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$&amp;t&lt;?_]+&gt;!,:;:l&gt;&lt;&lt;~_&gt;IIlIllll!i&gt;&gt;&lt;~~&gt;?]{{]&gt;;Il&lt;-[??-__~~~&lt;~~&lt;~&lt;^,,I&lt;&gt;&lt;_~&gt;l]d$$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="592"
+clip-path="url(#clip44)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$$b1+???]+&lt;!"`;__++_&lt;!!!!!ii!llllllIl+~!;"",;!&gt;+__+~&lt;&lt;&gt;!i&gt;i&lt;~&lt;~l"::i&lt;&lt;+_~&gt;l-U@$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="605"
+clip-path="url(#clip45)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$@J[+-[?]_&lt;!;^'!___~&gt;&lt;&lt;~~~~~~&lt;&gt;!l!!ii_]i!ii!!!!ii&gt;&lt;&lt;&lt;&gt;!l!ii!&lt;&gt;!"",li&gt;&gt;&lt;~~il]x&amp;$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="618"
+clip-path="url(#clip46)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$Wt[++]]?-&lt;!;"'"&lt;_+~~~~~~~~~~~~+_][[-!]\xur|?~&gt;iii&gt;&lt;~&lt;i!!i&gt;i&gt;~l^`:l!i&gt;&lt;i~i;[f*$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="631"
+clip-path="url(#clip47)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$$m}[+&lt;?]?-~!;"``!~____+++~&lt;&lt;&gt;ii!!lIllI&gt;~&lt;&lt;&gt;&gt;iii!!!!i&lt;&lt;&lt;&lt;&gt;&gt;&lt;&lt;i&lt;i^^;l!!&gt;ii~!I)/b$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="644"
+clip-path="url(#clip48)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$Bn-{_&lt;-]--_!:"`^l~__---+~~&lt;iii!!ii&gt;&gt;&lt;)-i&lt;&lt;i!lII;I;Il!i&gt;iii&gt;~i!l^,:Il!i!&gt;&lt;;!)\Z$$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="657"
+clip-path="url(#clip49)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$a{-1?&gt;_??+&lt;&lt;I"'"l&lt;__---++++++__+~&gt;!i&gt;]]i!ii&gt;~~&gt;!lII;Ilii!!i&lt;&gt;I:^",Il!ii&gt;i,+})Y@$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="670"
+clip-path="url(#clip50)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$$C_-{{i_?-~&lt;il"'"~_---_________--_~il!,,I!!!!ilIII;;;Ili&lt;&lt;i!i&lt;&gt;;^,":I!i&lt;&lt;Ii[-]r&amp;$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="683"
+clip-path="url(#clip51)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$8t}]](&lt;+-_+&gt;lI:'`&lt;_++++_+~~~~&lt;&lt;&gt;~-{)?&gt;,,;ll;::,,:::;;Il!&lt;?+!i&gt;&lt;l'";:;!i&gt;i![_?[|k$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="696"
+clip-path="url(#clip52)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$a)11-{]!__~&gt;l;:^';_-_+~~~~&lt;&lt;&gt;ii!lI!+1)-I:;:::::::::;;ll!&gt;-[-&lt;i&gt;!.^l;;li!![1{}]]z%$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="709"
+clip-path="url(#clip53)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$b]]){-1i&lt;+&lt;il:,^^!i]{{]+~~~~~~+&lt;&gt;il;:I&lt;iIlI;IIIIIIll!!l!i&lt;-11_~&gt;. ^+III;&lt;i+[___}UB$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="722"
+clip-path="url(#clip54)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$M\&gt;&lt;]][[&lt;~&lt;iI:,'l}-&lt;_1||1[-++?]--?[[[)]i?{[_&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;i!l!i&gt;&lt;-{)]&gt;...::,:l:"I~&lt;&lt;+-]h$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="735"
+clip-path="url(#clip55)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$%c(\_ii]{+&gt;l;,".l|?}+&gt;](trxj\1[{\rxxj(?}?[1|1}[-+~&gt;&gt;ii&gt;&gt;&gt;&lt;&lt;&gt;&lt;~-&lt;...`l;"^:ii!i&gt;&lt;}n&amp;$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="748"
+clip-path="url(#clip56)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$#r|t//}&lt;IllI:;"..[|&lt;]-ii_}|rvuxuvnrxx1~&lt;_[??}1{[]?~&gt;i&gt;&lt;&lt;&lt;&lt;&gt;i!!&gt;i. ..Il:I;;l~]{|vM$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="761"
+clip-path="url(#clip57)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$wf\1(rt}-!:"";'.`l(/_~[-!I!~?{(|(1[_-+i&gt;&gt;~+~_?-_~&lt;!!!i&gt;&gt;&gt;&gt;&gt;&lt;&lt;+_!.. .!!;l~[)({]{X@$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="774"
+clip-path="url(#clip58)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$z~~+&lt;l:,!?-~I`.'l--]f\+~}}~l;:Ii~__~!:;!!&lt;&gt;iil;,,,;l!!!i&lt;~-}1]-!...`Il&lt;+?1))|)[x8$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="787"
+clip-path="url(#clip59)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$@n?[[?~~_&lt;I^^^''`i-1_&gt;}rf{1ff)-&lt;!IIl+1{i!!!;"^^^,:;;Il!i~-[}{-&gt;_l ..'!&gt;&lt;~?}}{)(\\m$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="800"
+clip-path="url(#clip60)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$@z}{{[{(t{-_!:,'^+&lt;]{-&gt;~{ruuzUYcx|?&gt;Il_}i:"":;!&gt;&lt;i!IIl&gt;_[}[-&lt;!!~; .."~&lt;&lt;+-]?--+&gt;[b$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="813"
+clip-path="url(#clip61)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$U~]}1){{)|)]?l^:&lt;~-1)]~&gt;~]\vUJUUXvuj|_;&lt;~&gt;i&gt;~++~&lt;&lt;&lt;&lt;&lt;~++&lt;&gt;&gt;iii~I.. !+~_]}{{}]_~f&amp;$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="826"
+clip-path="url(#clip62)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$#|)[[[)j\1-ii!;~&lt;i+?}{]_~&lt;~-}|fxrr/1+:,+)[i;li~+_+~&gt;ii!!!i&lt;~~&gt;~!. '&lt;-?}1(|\\([[Z$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+<text
+x="15"
+y="839"
+clip-path="url(#clip63)"
+font-family="Consolas, monospace"
+font-size="11"
+fill="#c9d1d9">
+
+$$$$$$$$$$$$Bz1[{(|1[[[-~i&lt;-i!!~_?}}]-_+~+_?]-i:"i){\/\-l;!~&lt;!IIIIll!!!i&lt;&lt;+~'."~_]}1))}?])x&amp;$$$$$$$$$$$$$$$$$$
+
+</text>
+
+
+
+<rect
+x="785"
+y="9"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="22"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="35"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="48"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="61"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="74"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="87"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="100"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="113"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="126"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="139"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="152"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="165"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="178"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="191"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="204"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="217"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="230"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="243"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="256"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="269"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="282"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="295"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="308"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="321"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="334"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="347"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="360"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="373"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="386"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="399"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="412"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="425"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="438"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="451"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="464"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="477"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="490"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="503"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="516"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="529"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="542"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="555"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="568"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="581"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="594"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="607"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="620"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="633"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="646"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="659"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="672"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="685"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="698"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="711"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="724"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="737"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="750"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="763"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="776"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="789"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="802"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="815"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="785"
+y="828"
+width="2"
+height="13"
+fill="#58a6ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="0.6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+</svg>
