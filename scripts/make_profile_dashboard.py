@@ -97,19 +97,19 @@ for i, (key, value) in enumerate(INFO):
 # Nodes config for the blueprint (coordinates customized for beautiful 3D flowchart aesthetics)
 NODES = [
     # (id, label, x, y, width, height, type: root, child)
-    ("root", "Repositories", 440, 360, 140, 34, "root"),
-    ("p1", "Projects", 330, 440, 100, 30, "child"),
-    ("p2", "Breaking Dependabot", 460, 440, 160, 30, "child"),
-    ("p3", "Flutanko", 650, 440, 100, 30, "child"),
+    ("root", "Repositories", 440, 405, 140, 34, "root"),
+    ("p1", "Projects", 330, 485, 100, 30, "child"),
+    ("p2", "Breaking Dependabot", 460, 485, 160, 30, "child"),
+    ("p3", "Flutanko", 650, 485, 100, 30, "child"),
     
-    ("c1", "Secure Layout", 300, 520, 120, 30, "child"),
-    ("c2", "Cools Repository", 450, 520, 140, 30, "child"),
-    ("c3", "Project Node", 620, 520, 120, 30, "child"),
-    ("c4", "Enterprise AI Platform", 770, 520, 160, 30, "child"),
+    ("c1", "Secure Layout", 300, 565, 120, 30, "child"),
+    ("c2", "Cools Repository", 450, 565, 140, 30, "child"),
+    ("c3", "Project Node", 620, 565, 120, 30, "child"),
+    ("c4", "Enterprise AI Platform", 770, 565, 160, 30, "child"),
     
-    ("s1", "Secure IoT", 350, 600, 110, 30, "child"),
-    ("s2", "Docker Integration", 530, 600, 150, 30, "child"),
-    ("s3", "AI Agent System", 710, 600, 140, 30, "child"),
+    ("s1", "Secure IoT", 350, 645, 110, 30, "child"),
+    ("s2", "Docker Integration", 530, 645, 150, 30, "child"),
+    ("s3", "AI Agent System", 710, 645, 140, 30, "child"),
 ]
 
 nodes_markup = ""
@@ -117,45 +117,45 @@ paths_markup = ""
 pulses_markup = ""
 
 # Draw Connections (Paths)
-# Root -> level 1
-paths_markup += f'<path d="M 510 394 L 510 415 L 380 415 L 380 440" fill="none" stroke="#0077ff" stroke-width="1.5" opacity="0.6"/>'
-paths_markup += f'<path d="M 510 394 L 510 440" fill="none" stroke="#00ffff" stroke-width="2" opacity="0.8"/>'
-paths_markup += f'<path d="M 510 394 L 510 415 L 700 415 L 700 440" fill="none" stroke="#0077ff" stroke-width="1.5" opacity="0.6"/>'
+# Root -> level 1  (root bottom = 405+34 = 439)
+paths_markup += f'<path d="M 510 439 L 510 460 L 380 460 L 380 485" fill="none" stroke="#0077ff" stroke-width="1.5" opacity="0.6"/>'
+paths_markup += f'<path d="M 510 439 L 510 485" fill="none" stroke="#00ffff" stroke-width="2" opacity="0.8"/>'
+paths_markup += f'<path d="M 510 439 L 510 460 L 700 460 L 700 485" fill="none" stroke="#0077ff" stroke-width="1.5" opacity="0.6"/>'
 
 # animate points on level 1 links
 pulses_markup += """
 <circle r="3" fill="#ffffff">
-  <animateMotion path="M 510 394 Q 510 415 380 415 L 380 440" dur="4s" repeatCount="indefinite"/>
+  <animateMotion path="M 510 439 Q 510 460 380 460 L 380 485" dur="4s" repeatCount="indefinite"/>
 </circle>
 <circle r="3" fill="#ffffff">
-  <animateMotion path="M 510 394 L 510 440" dur="3s" repeatCount="indefinite"/>
+  <animateMotion path="M 510 439 L 510 485" dur="3s" repeatCount="indefinite"/>
 </circle>
 <circle r="3" fill="#ffffff">
-  <animateMotion path="M 510 394 Q 510 415 700 415 L 700 440" dur="5s" repeatCount="indefinite"/>
+  <animateMotion path="M 510 439 Q 510 460 700 460 L 700 485" dur="5s" repeatCount="indefinite"/>
 </circle>
 """
 
-# Level 1 -> level 2
+# Level 1 -> level 2  (level1 bottom = 485+30 = 515)
 connections_l1_l2 = [
     # (from_x, from_y, to_x, to_y)
-    (380, 470, 360, 520),
-    (380, 470, 520, 520),
-    (540, 470, 520, 520),
-    (540, 470, 680, 520),
-    (700, 470, 680, 520),
-    (700, 470, 850, 520)
+    (380, 515, 360, 565),
+    (380, 515, 520, 565),
+    (540, 515, 520, 565),
+    (540, 515, 680, 565),
+    (700, 515, 680, 565),
+    (700, 515, 850, 565)
 ]
 for fx, fy, tx, ty in connections_l1_l2:
     paths_markup += f'<path d="M {fx} {fy} L {fx} {fy+15} L {tx} {fy+15} L {tx} {ty}" fill="none" stroke="#0055aa" stroke-dasharray="3 3" stroke-width="1"/>'
 
-# Level 2 -> level 3
+# Level 2 -> level 3  (level2 bottom = 565+30 = 595)
 connections_l2_l3 = [
-    (360, 550, 405, 600),
-    (520, 550, 405, 600),
-    (520, 550, 605, 600),
-    (680, 550, 605, 600),
-    (680, 550, 780, 600),
-    (850, 550, 780, 600)
+    (360, 595, 405, 645),
+    (520, 595, 405, 645),
+    (520, 595, 605, 645),
+    (680, 595, 605, 645),
+    (680, 595, 780, 645),
+    (850, 595, 780, 645)
 ]
 for fx, fy, tx, ty in connections_l2_l3:
     paths_markup += f'<path d="M {fx} {fy} L {tx} {ty}" fill="none" stroke="#0077ff" stroke-width="1.2" opacity="0.7"/>'

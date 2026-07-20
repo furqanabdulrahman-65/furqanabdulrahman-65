@@ -681,91 +681,91 @@
   <!-- Diagram paths connections & node buttons logic -->
   <g>
     <!-- Glowing pulse circles & pathways -->
-    <path d="M 510 394 L 510 415 L 380 415 L 380 440" fill="none" stroke="#0077ff" stroke-width="1.5" opacity="0.6"/><path d="M 510 394 L 510 440" fill="none" stroke="#00ffff" stroke-width="2" opacity="0.8"/><path d="M 510 394 L 510 415 L 700 415 L 700 440" fill="none" stroke="#0077ff" stroke-width="1.5" opacity="0.6"/><path d="M 380 470 L 380 485 L 360 485 L 360 520" fill="none" stroke="#0055aa" stroke-dasharray="3 3" stroke-width="1"/><path d="M 380 470 L 380 485 L 520 485 L 520 520" fill="none" stroke="#0055aa" stroke-dasharray="3 3" stroke-width="1"/><path d="M 540 470 L 540 485 L 520 485 L 520 520" fill="none" stroke="#0055aa" stroke-dasharray="3 3" stroke-width="1"/><path d="M 540 470 L 540 485 L 680 485 L 680 520" fill="none" stroke="#0055aa" stroke-dasharray="3 3" stroke-width="1"/><path d="M 700 470 L 700 485 L 680 485 L 680 520" fill="none" stroke="#0055aa" stroke-dasharray="3 3" stroke-width="1"/><path d="M 700 470 L 700 485 L 850 485 L 850 520" fill="none" stroke="#0055aa" stroke-dasharray="3 3" stroke-width="1"/><path d="M 360 550 L 405 600" fill="none" stroke="#0077ff" stroke-width="1.2" opacity="0.7"/><path d="M 520 550 L 405 600" fill="none" stroke="#0077ff" stroke-width="1.2" opacity="0.7"/><path d="M 520 550 L 605 600" fill="none" stroke="#0077ff" stroke-width="1.2" opacity="0.7"/><path d="M 680 550 L 605 600" fill="none" stroke="#0077ff" stroke-width="1.2" opacity="0.7"/><path d="M 680 550 L 780 600" fill="none" stroke="#0077ff" stroke-width="1.2" opacity="0.7"/><path d="M 850 550 L 780 600" fill="none" stroke="#0077ff" stroke-width="1.2" opacity="0.7"/>
+    <path d="M 510 439 L 510 460 L 380 460 L 380 485" fill="none" stroke="#0077ff" stroke-width="1.5" opacity="0.6"/><path d="M 510 439 L 510 485" fill="none" stroke="#00ffff" stroke-width="2" opacity="0.8"/><path d="M 510 439 L 510 460 L 700 460 L 700 485" fill="none" stroke="#0077ff" stroke-width="1.5" opacity="0.6"/><path d="M 380 515 L 380 530 L 360 530 L 360 565" fill="none" stroke="#0055aa" stroke-dasharray="3 3" stroke-width="1"/><path d="M 380 515 L 380 530 L 520 530 L 520 565" fill="none" stroke="#0055aa" stroke-dasharray="3 3" stroke-width="1"/><path d="M 540 515 L 540 530 L 520 530 L 520 565" fill="none" stroke="#0055aa" stroke-dasharray="3 3" stroke-width="1"/><path d="M 540 515 L 540 530 L 680 530 L 680 565" fill="none" stroke="#0055aa" stroke-dasharray="3 3" stroke-width="1"/><path d="M 700 515 L 700 530 L 680 530 L 680 565" fill="none" stroke="#0055aa" stroke-dasharray="3 3" stroke-width="1"/><path d="M 700 515 L 700 530 L 850 530 L 850 565" fill="none" stroke="#0055aa" stroke-dasharray="3 3" stroke-width="1"/><path d="M 360 595 L 405 645" fill="none" stroke="#0077ff" stroke-width="1.2" opacity="0.7"/><path d="M 520 595 L 405 645" fill="none" stroke="#0077ff" stroke-width="1.2" opacity="0.7"/><path d="M 520 595 L 605 645" fill="none" stroke="#0077ff" stroke-width="1.2" opacity="0.7"/><path d="M 680 595 L 605 645" fill="none" stroke="#0077ff" stroke-width="1.2" opacity="0.7"/><path d="M 680 595 L 780 645" fill="none" stroke="#0077ff" stroke-width="1.2" opacity="0.7"/><path d="M 850 595 L 780 645" fill="none" stroke="#0077ff" stroke-width="1.2" opacity="0.7"/>
     
 <circle r="3" fill="#ffffff">
-  <animateMotion path="M 510 394 Q 510 415 380 415 L 380 440" dur="4s" repeatCount="indefinite"/>
+  <animateMotion path="M 510 439 Q 510 460 380 460 L 380 485" dur="4s" repeatCount="indefinite"/>
 </circle>
 <circle r="3" fill="#ffffff">
-  <animateMotion path="M 510 394 L 510 440" dur="3s" repeatCount="indefinite"/>
+  <animateMotion path="M 510 439 L 510 485" dur="3s" repeatCount="indefinite"/>
 </circle>
 <circle r="3" fill="#ffffff">
-  <animateMotion path="M 510 394 Q 510 415 700 415 L 700 440" dur="5s" repeatCount="indefinite"/>
+  <animateMotion path="M 510 439 Q 510 460 700 460 L 700 485" dur="5s" repeatCount="indefinite"/>
 </circle>
 
 <circle r="2.5" fill="#00ffff">
-  <animateMotion path="M 360 550 L 405 600" dur="3.5s" repeatCount="indefinite"/>
+  <animateMotion path="M 360 595 L 405 645" dur="3.5s" repeatCount="indefinite"/>
 </circle>
 <circle r="2.5" fill="#00ffff">
-  <animateMotion path="M 520 550 L 405 600" dur="4.5s" repeatCount="indefinite"/>
+  <animateMotion path="M 520 595 L 405 645" dur="4.5s" repeatCount="indefinite"/>
 </circle>
 <circle r="2.5" fill="#00ffff">
-  <animateMotion path="M 520 550 L 605 600" dur="4.5s" repeatCount="indefinite"/>
+  <animateMotion path="M 520 595 L 605 645" dur="4.5s" repeatCount="indefinite"/>
 </circle>
 <circle r="2.5" fill="#00ffff">
-  <animateMotion path="M 680 550 L 605 600" dur="5.5s" repeatCount="indefinite"/>
+  <animateMotion path="M 680 595 L 605 645" dur="5.5s" repeatCount="indefinite"/>
 </circle>
 <circle r="2.5" fill="#00ffff">
-  <animateMotion path="M 680 550 L 780 600" dur="5.5s" repeatCount="indefinite"/>
+  <animateMotion path="M 680 595 L 780 645" dur="5.5s" repeatCount="indefinite"/>
 </circle>
 <circle r="2.5" fill="#00ffff">
-  <animateMotion path="M 850 550 L 780 600" dur="4.5s" repeatCount="indefinite"/>
+  <animateMotion path="M 850 595 L 780 645" dur="4.5s" repeatCount="indefinite"/>
 </circle>
     
     <!-- Render node blocks -->
     
   <!-- Node: Repositories -->
-  <g transform="translate(440, 360)">
+  <g transform="translate(440, 405)">
     <rect width="140" height="34" rx="6" fill="#081b33" stroke="#00ffff" stroke-width="1.2" style="filter: drop-shadow(0px 0px 6px rgba(0,255,255,0.7));" opacity="0.9"/>
     <text x="70" y="21" font-family="Outfit, Inter, sans-serif" font-size="10.5" font-weight="bold" fill="#ffffff" text-anchor="middle">Repositories</text>
   </g>
   <!-- Node: Projects -->
-  <g transform="translate(330, 440)">
+  <g transform="translate(330, 485)">
     <rect width="100" height="30" rx="6" fill="#071224" stroke="#0077ff" stroke-width="1.2" style="filter: drop-shadow(0px 0px 4px rgba(0,119,255,0.4));" opacity="0.9"/>
     <text x="50" y="19" font-family="Outfit, Inter, sans-serif" font-size="10.5" font-weight="bold" fill="#afd7ff" text-anchor="middle">Projects</text>
   </g>
   <!-- Node: Breaking Dependabot -->
-  <g transform="translate(460, 440)">
+  <g transform="translate(460, 485)">
     <rect width="160" height="30" rx="6" fill="#071224" stroke="#0077ff" stroke-width="1.2" style="filter: drop-shadow(0px 0px 4px rgba(0,119,255,0.4));" opacity="0.9"/>
     <text x="80" y="19" font-family="Outfit, Inter, sans-serif" font-size="10.5" font-weight="bold" fill="#afd7ff" text-anchor="middle">Breaking Dependabot</text>
   </g>
   <!-- Node: Flutanko -->
-  <g transform="translate(650, 440)">
+  <g transform="translate(650, 485)">
     <rect width="100" height="30" rx="6" fill="#071224" stroke="#0077ff" stroke-width="1.2" style="filter: drop-shadow(0px 0px 4px rgba(0,119,255,0.4));" opacity="0.9"/>
     <text x="50" y="19" font-family="Outfit, Inter, sans-serif" font-size="10.5" font-weight="bold" fill="#afd7ff" text-anchor="middle">Flutanko</text>
   </g>
   <!-- Node: Secure Layout -->
-  <g transform="translate(300, 520)">
+  <g transform="translate(300, 565)">
     <rect width="120" height="30" rx="6" fill="#071224" stroke="#0077ff" stroke-width="1.2" style="filter: drop-shadow(0px 0px 4px rgba(0,119,255,0.4));" opacity="0.9"/>
     <text x="60" y="19" font-family="Outfit, Inter, sans-serif" font-size="10.5" font-weight="bold" fill="#afd7ff" text-anchor="middle">Secure Layout</text>
   </g>
   <!-- Node: Cools Repository -->
-  <g transform="translate(450, 520)">
+  <g transform="translate(450, 565)">
     <rect width="140" height="30" rx="6" fill="#071224" stroke="#0077ff" stroke-width="1.2" style="filter: drop-shadow(0px 0px 4px rgba(0,119,255,0.4));" opacity="0.9"/>
     <text x="70" y="19" font-family="Outfit, Inter, sans-serif" font-size="10.5" font-weight="bold" fill="#afd7ff" text-anchor="middle">Cools Repository</text>
   </g>
   <!-- Node: Project Node -->
-  <g transform="translate(620, 520)">
+  <g transform="translate(620, 565)">
     <rect width="120" height="30" rx="6" fill="#071224" stroke="#0077ff" stroke-width="1.2" style="filter: drop-shadow(0px 0px 4px rgba(0,119,255,0.4));" opacity="0.9"/>
     <text x="60" y="19" font-family="Outfit, Inter, sans-serif" font-size="10.5" font-weight="bold" fill="#afd7ff" text-anchor="middle">Project Node</text>
   </g>
   <!-- Node: Enterprise AI Platform -->
-  <g transform="translate(770, 520)">
+  <g transform="translate(770, 565)">
     <rect width="160" height="30" rx="6" fill="#071224" stroke="#0077ff" stroke-width="1.2" style="filter: drop-shadow(0px 0px 4px rgba(0,119,255,0.4));" opacity="0.9"/>
     <text x="80" y="19" font-family="Outfit, Inter, sans-serif" font-size="10.5" font-weight="bold" fill="#afd7ff" text-anchor="middle">Enterprise AI Platform</text>
   </g>
   <!-- Node: Secure IoT -->
-  <g transform="translate(350, 600)">
+  <g transform="translate(350, 645)">
     <rect width="110" height="30" rx="6" fill="#071224" stroke="#0077ff" stroke-width="1.2" style="filter: drop-shadow(0px 0px 4px rgba(0,119,255,0.4));" opacity="0.9"/>
     <text x="55" y="19" font-family="Outfit, Inter, sans-serif" font-size="10.5" font-weight="bold" fill="#afd7ff" text-anchor="middle">Secure IoT</text>
   </g>
   <!-- Node: Docker Integration -->
-  <g transform="translate(530, 600)">
+  <g transform="translate(530, 645)">
     <rect width="150" height="30" rx="6" fill="#071224" stroke="#0077ff" stroke-width="1.2" style="filter: drop-shadow(0px 0px 4px rgba(0,119,255,0.4));" opacity="0.9"/>
     <text x="75" y="19" font-family="Outfit, Inter, sans-serif" font-size="10.5" font-weight="bold" fill="#afd7ff" text-anchor="middle">Docker Integration</text>
   </g>
   <!-- Node: AI Agent System -->
-  <g transform="translate(710, 600)">
+  <g transform="translate(710, 645)">
     <rect width="140" height="30" rx="6" fill="#071224" stroke="#0077ff" stroke-width="1.2" style="filter: drop-shadow(0px 0px 4px rgba(0,119,255,0.4));" opacity="0.9"/>
     <text x="70" y="19" font-family="Outfit, Inter, sans-serif" font-size="10.5" font-weight="bold" fill="#afd7ff" text-anchor="middle">AI Agent System</text>
   </g>
