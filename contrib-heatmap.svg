@@ -1489,13 +1489,17 @@
     <animate attributeName="opacity" from="0" to="1" begin="0.624s" dur="0.25s" fill="freeze" />
     <animateTransform attributeName="transform" type="translate" from="0 -4" to="0 0" begin="0.624s" dur="0.25s" fill="freeze" />
   </rect>
-  <rect x="763" y="53" width="10" height="10" rx="2" fill="#161b22" opacity="0">
+  <rect x="763" y="53" width="10" height="10" rx="2" fill="#0e4429" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.636s" dur="0.25s" fill="freeze" />
     <animateTransform attributeName="transform" type="translate" from="0 -4" to="0 0" begin="0.636s" dur="0.25s" fill="freeze" />
   </rect>
+  <rect x="763" y="66" width="10" height="10" rx="2" fill="#161b22" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.648s" dur="0.25s" fill="freeze" />
+    <animateTransform attributeName="transform" type="translate" from="0 -4" to="0 0" begin="0.648s" dur="0.25s" fill="freeze" />
+  </rect>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.4s" fill="freeze" />
-    <text x="87" y="155" class="stats-text">44 contributions in the last year | Current Streak: 2 days | Longest: 2 days</text>
+    <text x="87" y="155" class="stats-text">46 contributions in the last year | Current Streak: 3 days | Longest: 3 days</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.4s" fill="freeze" />
